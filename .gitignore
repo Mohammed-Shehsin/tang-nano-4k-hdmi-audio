@@ -1,0 +1,25 @@
+# Gowin generated build outputs
+**/impl/
+**/temp/
+
+# Gowin user/local files
+*.user
+*.log
+*.rpt
+*.rpt.txt
+*.html
+*.xml
+*.json
+*.result
+*.db
+*.vg
+*.bin
+*.binx
+*.fs
+*.power
+*.timing_paths
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
