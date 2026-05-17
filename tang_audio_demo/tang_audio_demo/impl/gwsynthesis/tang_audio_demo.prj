@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1NSR-4C" package="QFN48P" speed="7" partNumber="GW1NSR-LV4CQN48PC7/I6"/>
+    <FileList>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\audio_clock_regeneration_packet.sv" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\audio_info_frame.sv" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\audio_sample_packet.sv" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\auxiliary_video_information_info_frame.sv" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\gowin_clkdiv.v" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\gowin_pllvr.v" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\hdmi.sv" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\packet_assembler.sv" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\packet_picker.sv" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\serializer.sv" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\source_product_description_info_frame.sv" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\tmds_channel.sv" type="verilog"/>
+        <File path="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\src\top.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="50.000"/>
+        <Option type="include_path" value="C:/Users/moham/tang-nano-4k-hdmi-audio/tang_audio_demo/src"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\moham\tang-nano-4k-hdmi-audio\tang_audio_demo\tang_audio_demo\impl\gwsynthesis\tang_audio_demo.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="top_module" value="top"/>
+        <Option type="vcc" value="1.2"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>
