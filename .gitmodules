@@ -1,3 +1,0 @@
-[submodule "baseline/hdmi_720p/references/hdl-util-hdmi"]
-	path = baseline/hdmi_720p/references/hdl-util-hdmi
-	url = https://github.com/hdl-util/hdmi.git
