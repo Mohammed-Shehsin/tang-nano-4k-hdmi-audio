@@ -1,0 +1,3 @@
+[submodule "references/hdl-util-hdmi"]
+	path = references/hdl-util-hdmi
+	url = https://github.com/hdl-util/hdmi.git
